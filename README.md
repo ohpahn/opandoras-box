@@ -1,5 +1,6 @@
 # Opandora's Box - A Balatro Mod
-////HOW TO INSTALL
+56 new Jokers, 1 new Tarot Card, 1 new Spectral Card, 1 new Tag
+# HOW TO INSTALL
 - Open Balatro's game directory, where the Balatro.exe resides in
 - Make a backup of Balatro.exe (a must if you want to go back to vanilla)
 - Open Balatro.exe using 7zip
@@ -26,10 +27,7 @@ And three, my brain too dumb dumb and scared to start converting it to work with
 Also, sorry if there's any mispelling or like, weird forming of words/grammar on the Joker descriptions, I'm Indonesian and English isn't my first language.
 
 # NEW CONTENT AMOUNT
-Jokers = 56
-Tarots = 1
-Spectrals = 1
-Tags = 1
+
 
 # NEW """"FEATURE""""
 XChips... XChips is now real...
