@@ -6,7 +6,7 @@
 <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-1.png" alt="jokers 1" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-2.png" alt="jokers 2" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-3.png" alt="jokers 3" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-4.png" alt="jokers 4" width="384" height="384">
 
 # Video Showcase
-[<img src="https://github.com/ohpahn/opandoras-box/blob/main/misc-images/github-thumbnail.png" alt="YouTube Video Showcase" width="720" height="405">](https://www.youtube.com/watch?v=_Hy428jxIpY)
+[<img src="https://github.com/ohpahn/opandoras-box/blob/main/misc-images/github-thumbnail.png" alt="YouTube Video Showcase" width="773" height="435">](https://www.youtube.com/watch?v=_Hy428jxIpY)
 
 # **HOW TO INSTALL**
 - Open Balatro's game directory, where the Balatro.exe resides in
