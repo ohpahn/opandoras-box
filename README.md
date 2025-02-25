@@ -130,6 +130,6 @@ New Challenges:
 ## If somebody can help me figure these bugs out that'll be great!
 DM me on Discord (@ohpahn) if you can help and because I don't know how to use github at ***ALL***
 
-(except for marking out words like ***this*** cause ***this*** looks ***cool*** as ***hell***
+(except for marking out words like ***this*** cause ***this*** looks ***cool*** as ***hell***)
 
 ## Always up for discussion and change, if any of these are too overpowered.
