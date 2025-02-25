@@ -105,8 +105,6 @@ Also, sorry if there's any mispelling or like, weird forming of words/grammar on
 - **Focus**: Adds +1 of max selected cards to discard.
 
 ### ***CHALLENGES***
-New Challenges:
-
 - **Cicero's Wrath**: (corny ass name I know) Start with 2 of the new Cicero jokers, see how far you can go. (My high score with this challenge was only up to round 17 and playing only high cards. Either's it impossible or brain too small (most probably the latter))
 
 - **Rock Hard Deck**: Starts with Marble Joker, Stone Joker, and the new Cobblestone Joker. Start with only 5 Stone Cards.
