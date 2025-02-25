@@ -7,6 +7,7 @@
 - Move all of the contents inside the "Opandora's Box" folder into Balatro.exe's archive, overwriting every files in it.
 
 ////THE MOD
+
 Let me start this off by saying that I am in no way close to being a coder, I just see patterns that are already inside card.lua and try to make new Jokers based on that.
 So if you encounter any bugs, PLEASE tell me and if possible, help me out if you understand coding, cause this is a WHOLE new territory for me.
 
