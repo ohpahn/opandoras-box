@@ -1,5 +1,6 @@
-# **Opandora's Box - A Balatro Mod**
+# **Opandora's Box - A Bal<img src="https://github.com/ohpahn/opandoras-box/blob/main/icon.png" alt="Alt Text" width="32" height="32">tro Mod**
 **56** new ***Jokers***, **1** new ***Tarot Card***, **1** new ***Spectral Card***, **1** new ***Tag***.
+
 
 # New Jokers
 <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-1.png" alt="Alt Text" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-2.png" alt="Alt Text" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-3.png" alt="Alt Text" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-4.png" alt="Alt Text" width="384" height="384">
