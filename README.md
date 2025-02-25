@@ -28,7 +28,6 @@ The reason I didn't create this mod under Steamodded is because;
 - my brain too dumb dumb and scared to start converting it to work with Steamodded.
 
 Also, sorry if there's any mispelling or like, weird forming of words/grammar on the Joker descriptions, I'm Indonesian and English isn't my first language.
-
 # **NEW ""FEATURE""**
 ### **XChips**... **XChips** is now ***real***...
 
