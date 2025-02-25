@@ -1,12 +1,12 @@
-# **Opandora's Box - A Bal<img src="https://github.com/ohpahn/opandoras-box/blob/main/icon.png" alt="Alt Text" width="32" height="32">tro Mod**
+# **Opandora's Box - A Bal<img src="https://github.com/ohpahn/opandoras-box/blob/main/icon.png" alt="ace in the hole card" width="32" height="32">tro Mod**
 **56** new ***Jokers***, **1** new ***Tarot Card***, **1** new ***Spectral Card***, **1** new ***Tag***.
 
 
 # New Jokers
-<img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-1.png" alt="Alt Text" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-2.png" alt="Alt Text" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-3.png" alt="Alt Text" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-4.png" alt="Alt Text" width="384" height="384">
+<img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-1.png" alt="jokers 1" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-2.png" alt="jokers 2" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-3.png" alt="jokers 3" width="384" height="384">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-4.png" alt="jokers 4" width="384" height="384">
 
 # Video Showcase
-[![Click to view video](https://img.youtube.com/vi/_Hy428jxIpY/0.jpg)](https://www.youtube.com/watch?v=_Hy428jxIpY)
+[<img src="https://github.com/ohpahn/opandoras-box/blob/main/misc-images/github-thumbnail.png" alt="YouTube Video Showcase" width="720" height="405">](https://www.youtube.com/watch?v=_Hy428jxIpY)
 
 # **HOW TO INSTALL**
 - Open Balatro's game directory, where the Balatro.exe resides in
