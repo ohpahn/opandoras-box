@@ -1,13 +1,15 @@
 # **Opandora's Box - A Balatro Mod**
 **56** new ***Jokers***, **1** new ***Tarot Card***, **1** new ***Spectral Card***, **1** new ***Tag***.
+
+# Video Showcase
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_Hy428jxIpY/0.jpg)](https://www.youtube.com/watch?v=_Hy428jxIpY)
+
 # **HOW TO INSTALL**
 - Open Balatro's game directory, where the Balatro.exe resides in
 - Make a backup of Balatro.exe (a must if you want to go back to vanilla)
 - Open Balatro.exe using 7zip
 - Open the "Opandora's Box" folder in the ZIP/RAR file
 - Move all of the contents inside the "Opandora's Box" folder into Balatro.exe's archive, overwriting every files in it.
-
-https://www.youtube.com/watch?v=_Hy428jxIpY
 
 # **THE MOD**
 Let me start this off by saying that I am in no way close to being a coder, I just see patterns that are already inside card.lua and try to make new Jokers based on that.
