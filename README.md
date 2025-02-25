@@ -128,5 +128,8 @@ New Challenges:
 - **Balanzone**: Semi-works, if you have 2 Jokers under "context.after". (let's say you have 2 Jimbos) and 1 Balanzone, instead of the total being +16 Mult, it'll give a total of +12 Mult.
 
 ## If somebody can help me figure these bugs out that'll be great!
+DM me on Discord (@ohpahn) if you can help and because I don't know how to use github at ***ALL***
+
+(except for marking out words like ***this*** cause ***this*** looks ***cool*** as ***hell***
 
 ## Always up for discussion and change, if any of these are too overpowered.
