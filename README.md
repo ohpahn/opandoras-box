@@ -26,6 +26,7 @@ The reason I didn't create this mod under Steamodded is because;
 - I wasn't thinking about the possibility of making my own jokers at first.
 - It'll be much easier for me to play this mod on my phone.
 - my brain too dumb dumb and scared to start converting it to work with Steamodded.
+
 Also, sorry if there's any mispelling or like, weird forming of words/grammar on the Joker descriptions, I'm Indonesian and English isn't my first language.
 
 # **NEW ""FEATURE""**
