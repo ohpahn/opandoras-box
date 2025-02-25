@@ -1,8 +1,11 @@
 # **Opandora's Box - A Balatro Mod**
 **56** new ***Jokers***, **1** new ***Tarot Card***, **1** new ***Spectral Card***, **1** new ***Tag***.
 
+# New Jokers
+<img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-1.png" alt="Alt Text" width="216" height="216">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-2.png" alt="Alt Text" width="216" height="216">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-3.png" alt="Alt Text" width="216" height="216">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-4.png" alt="Alt Text" width="216" height="216">
+
 # Video Showcase
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_Hy428jxIpY/0.jpg)](https://www.youtube.com/watch?v=_Hy428jxIpY)
+[![Click to view video](https://img.youtube.com/vi/_Hy428jxIpY/0.jpg)](https://www.youtube.com/watch?v=_Hy428jxIpY)
 
 # **HOW TO INSTALL**
 - Open Balatro's game directory, where the Balatro.exe resides in
