@@ -6,7 +6,7 @@
 - Open the "Opandora's Box" folder in the ZIP/RAR file
 - Move all of the contents inside the "Opandora's Box" folder into Balatro.exe's archive, overwriting every files in it.
 
-////THE MOD
+# THE MOD
 Let me start this off by saying that I am in no way close to being a coder, I just see patterns that are already inside card.lua and try to make new Jokers based on that.
 So if you encounter any bugs, PLEASE tell me and if possible, help me out if you understand coding, cause this is a WHOLE new territory for me.
 
@@ -25,17 +25,17 @@ Two, it'll be much easier for me to play this mod on my phone.
 And three, my brain too dumb dumb and scared to start converting it to work with Steamodded.
 Also, sorry if there's any mispelling or like, weird forming of words/grammar on the Joker descriptions, I'm Indonesian and English isn't my first language.
 
-///NEW CONTENT AMOUNT:
+# NEW CONTENT AMOUNT
 Jokers = 56
 Tarots = 1
 Spectrals = 1
 Tags = 1
 
-///NEW """"FEATURE""""
+# NEW """"FEATURE""""
 XChips... XChips is now real...
 
-////JOKERS
-//COMMON
+# JOKERS
+# COMMON
 Cobblestone Joker: Gains +0.5 Mult per Stone Card played.
 Croon: Each played 4-5-3 gives +6 Mult.
 Cracked Egg: Gains $8 of extra value each round, sells for $0.
@@ -57,7 +57,7 @@ Olive Oil: +15 Chips per Clubs card scored. 1 in 3 chance this card is destroyed
 Pasta: +5 Mult per Diamond card scored. 1 in 3 chance this card is destroyed at the end of round.
 Aglio e Olio: X1.05 Chips and X1.05 Mult per card scored. 1 in 1000 chance this card is eaten at the end of round.
 
-//UNCOMMON
+# UNCOMMON
 Ooga Booga: Gains X0.05 Mult per Stone Card played.
 Miner: Retrigger all played Stone Cards.
 Litany: Adds X0.5 Mult for each Spectral cards used.
@@ -80,7 +80,7 @@ Blue Collar Joker: When Boss Blind is selected, this Joker gains X1 Chips.
 Cultist's Multi-Tool: This Joker gains +5 Mult and +20 Chips when a face card is destroyed.
 Eye for an Eye: This Joker gains X0.25 Chips when a Bonus Card is destroyed.
 
-//RARE
+# RARE
 Baroness: Each played Queen gives x1.5 Mult.
 Lifeline: Costs $25. Permanently adds +2 hand size when sold, sells for $0. Beep.
 Inferno: Each scored card gives X1.5 Mult, then gets destroyed.
@@ -91,26 +91,26 @@ Fermata's Tremolo: Gain +0.1 per played hand. If total is a whole number, retrig
 Pollux: Does nothing on its own. X10 if Castor is held.
 Sacrificial Tanto:When Blind is selected, destroy the Joker to its left and add X0.5 Mult
 
-//LEGENDARY
+# LEGENDARY
 Balanzone: Retriggers all Jokers.
 Cicero: Upgrades level of played hand by 3.
 Mezzetino: Earn quintuple the value of all other Jokers held. +1 card slot in shop when sold.
 
-//TAROTS
+# TAROTS
 Fragility: Deranks highlighted cards by 1.
 
-//SPECTRALS
+# SPECTRALS
 Summon: Creates the last Spectral card used in this run.
 
-////SPECTRAL CHANGES
+# SPECTRAL CHANGES
 Black Hole: Now gives +2 to every hand.
 
-////TAGS
+# TAGS
 Juggle: Now permanently gives +1 hand size.
 D6: Now gives 2 free rerolls at the next shop.
 Focus: Adds +1 of max selected cards to discard.
 
-////CHALLENGES
+# CHALLENGES
 New Challenges;
 
 - Cicero's Wrath (corny ass name I know)
@@ -121,11 +121,11 @@ New Challenges;
 	- Starts with Marble Joker, Stone Joker, and the new Cobblestone Joker.
 	- Start with only 5 Stone Cards.
 
-////RATES
+# RATES
 Soul: Was 0.003% before, now 0.005% chance of appearing in Arcana Packs/Spectral Packs.
 Black Hole: Since it now gives +2 to every hand, the drop rate is lowered from 0.003% to 0.0025%
 
-////OPTIONS
+# OPTIONS
 Game Speed: Now offers 0-100x game speed because me monkey brain and me likes dopamine :)
 
 ///CURRENT BUGS
