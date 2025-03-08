@@ -25,7 +25,13 @@ As stated before, this mod currently has:
 - 60 new Jokers
 - 1 "new" Tarot Card
 - 1 new Spectral Card
-- 1 new Tag 
+- 1 new Tag
+
+# **INSTALLATION**
+- Make sure you're downloading from the Releases tab and DO NOT download from the green [ <> Code ] button
+- After download is complete, open the .zip file
+- Drag and drop the "OpandorasBox" folder into your Mods folder
+- If everything is done correctly, it should look like Mods > OpandorasBox > (the mod's files)
 
 # **credits and recommended mods**
 ### [NeatoJokers](https://github.com/neatoqueen/NeatoJokers) by [Neato](https://github.com/neatoqueen), [Larswijn](https://github.com/larswijn), and [Lia_Fr0st](https://github.com/liafr0st)  
