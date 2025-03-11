@@ -6,7 +6,7 @@
 
 # Video Showcases
 [<img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-showcase-thumbnail.png" alt="YouTube Video Showcase" width="773" height="435">](https://www.youtube.com/watch?v=_Hy428jxIpY)
-[<img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-showcase-thumbnail.png" alt="Custom Music Showcase" width="773" height="435">](https://youtu.be/zxLk3OHulwA)
+[<img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-showcase-musicoptions-thumbnail.png" alt="Custom Music Showcase" width="773" height="435">](https://youtu.be/zxLk3OHulwA)
 
 # **about me :^)**
 Hi! My name's opan! A musician based in Indonesia.  
