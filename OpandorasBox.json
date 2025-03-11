@@ -1,0 +1,16 @@
+{
+	"id": "Opandoras_Box",
+	"name": "Opandoras Box",
+	"display_name": "Opandora",
+	"author": ["opan"],
+	"description": "+60 new Jokers and different varieties of Custom Music you can choose from while you play!",
+	"prefix": "opan",
+	"main_file": "OpandorasBox.lua",
+	"priority": 0,
+	"badge_colour": "FF7B5C",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1206c)"
+	]
+}

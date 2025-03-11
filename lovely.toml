@@ -1,0 +1,33 @@
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = 0
+
+[[patches]]
+[patches.pattern]
+target = "game.lua"
+pattern = "last_tarot_planet = nil,"
+position = "after"
+payload = "last_spectral = nil,"
+match_indent = true
+
+#completely referenced/STOLE/borrowed this from Handy
+[[patches]]
+[patches.pattern]
+target = "main.lua"
+pattern = '''function love.keypressed(key)'''
+position = "after"
+payload = '''
+if OpandorasBox.controller.process_bind(key) then return end
+'''
+match_indent = true
+
+[[patches]]
+[patches.pattern]
+target = "main.lua"
+pattern = '''function love.keyreleased(key)'''
+position = "after"
+payload = '''
+if OpandorasBox.controller.process_bind(key) then return end
+'''
+match_indent = true
