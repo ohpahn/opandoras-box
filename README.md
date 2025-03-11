@@ -1,12 +1,12 @@
-# **Opandora's Box - A Bal<img src="https://github.com/ohpahn/opandoras-box/blob/main/icon.png" alt="ace in the hole card" width="32" height="32">tro Mod**
+# **Opandora's Box - A Bal<img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-icon.png" alt="ace in the hole card" width="32" height="32">tro Mod**
 **60** new ***Jokers***, **1** new ***Tarot Card***, **1** new ***Spectral Card***, and **1** new ***Tag***.
 
 # New Jokers Showcase
-<img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-1.png" alt="jokers 1" width="347" height="309">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-2.png" alt="jokers 2" width="347" height="309">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-3.png" alt="jokers 3" width="347" height="309">  <img src="https://github.com/ohpahn/opandoras-box/blob/main/new-jokers-screenshots/jokers-4.png" alt="jokers 4" width="347" height="309">
+<img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-jokers-1.png" alt="jokers 1" width="347" height="309">  <img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-jokers-2.png" alt="jokers 2" width="347" height="309">  <img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-jokers-3.png" alt="jokers 3" width="347" height="309">  <img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-jokers-4.png" alt="jokers 4" width="347" height="309">
 
 # Video Showcases
-[<img src="https://github.com/ohpahn/opandoras-box/blob/main/misc-images/github-thumbnail.png" alt="YouTube Video Showcase" width="773" height="435">](https://www.youtube.com/watch?v=_Hy428jxIpY)
-[<img src="https://github.com/ohpahn/opandoras-box/blob/main/misc-images/custom_music_options.png" alt="Custom Music Showcase" width="773" height="435">](https://youtu.be/zxLk3OHulwA)
+[<img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-showcase-thumbnail.png" alt="YouTube Video Showcase" width="773" height="435">](https://www.youtube.com/watch?v=_Hy428jxIpY)
+[<img src="https://github.com/ohpahn/Misc-Media-Files/blob/main/media-files/images/opandoras-box-showcase-thumbnail.png" alt="Custom Music Showcase" width="773" height="435">](https://youtu.be/zxLk3OHulwA)
 
 # **about me :^)**
 Hi! My name's opan! A musician based in Indonesia.  
